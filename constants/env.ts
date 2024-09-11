@@ -1,0 +1,2 @@
+export const NGROK_STATIC_DOMAIN = process.env.EXPO_PUBLIC_NGROK_STATIC_DOMAIN || "";
+export const NGROK_STATIC_DOMAIN_PORT = process.env.EXPO_PUBLIC_NGROK_STATIC_DOMAIN_PORT || "";
